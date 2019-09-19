@@ -333,7 +333,7 @@
   <script src="contactform/contactform.js"></script>
 
   <!-- Template Custom Javascript File -->
-  <script src="<?php bloginfo( 'template_url' );?>/js/custom.js"></script>
+  <script src="<?php bloginfo( 'template_url' );?>/sjs/custom.js"></script>
 
 </body>
 
